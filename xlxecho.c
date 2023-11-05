@@ -35,8 +35,8 @@
 #define RCD_DELAY 3
 #define XLX_PORT 10002
 #define BUFSIZE 2048
-#define DEBUG_SEND
-#define DEBUG_RECV
+//#define DEBUG_SEND
+//#define DEBUG_RECV
 
 int main(int argc, char **argv)
 {
